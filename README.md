@@ -1,1 +1,1 @@
-# simple-fastapi-heml
+# simple-fastapi-helm
