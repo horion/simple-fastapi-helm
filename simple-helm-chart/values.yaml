@@ -42,6 +42,11 @@ service:
   externalPort: 8080
   internalPort: 8008
   port: 8080
+  
+envs:
+  - name: 'admin_email'
+    value: 'luizfsantoss@gmail.com'
+
 
 ingress:
   enabled: false
